@@ -1,6 +1,6 @@
 services:
    type: static_site
-    name: train_track
+    name: safe-train-
     branch: main
     buildCommand: ""
     staticPublishPath: .
